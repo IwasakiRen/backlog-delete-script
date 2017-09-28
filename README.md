@@ -23,6 +23,7 @@ backlogの個人設定（画面右上のメニュー） → APIタブ → APIキ
 ### その他
 
 jqコマンドが必要なので事前にインストールする必要あり
+
 （Macの人はHomebrewで簡単にインストール出来ます```brew install jq```）
 
 参考：https://stedolan.github.io/jq/download/
